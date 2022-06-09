@@ -16,9 +16,9 @@
 💻 AWS Dev0ps when I have some time or when I need to host websites, create new API with Lambda/ECS and add some CI / CD 🖋️
 
 
-![Exaustia Stats](https://github-readme-stats.vercel.app/api?username=exaustia&show_icons=true&theme=radical&count_private=true)
+![Exaustia Stats](https://github-readme-stats-pi-one-84.vercel.app/api?username=exaustia&show_icons=true&theme=radical&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exaustia&layout=compact&count_private=true)](https://github.com/exaustia/github-readme-stats)
+[![Top Langs](https://github-readme-stats-pi-one-84.vercel.app/api/top-langs/?username=exaustia&layout=compact&count_private=true)](https://github.com/exaustia/github-readme-stats)
 
 <!--
 **Exaustia/Exaustia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
