@@ -1,4 +1,4 @@
-### Hi there [Hi](https://cdn.discordapp.com/emojis/958073331536506951.png "Hi")
+### ![Hi](https://cdn.discordapp.com/emojis/958073331536506951.png "Hi")
 
 🔭 I'm working for Aiternate Studios since september 2021. 
 
