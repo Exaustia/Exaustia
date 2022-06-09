@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 🔭 I'm working for Aiternate Studios since september 2021. 
+
 🌱 I'm focused on the front-end, with ReactJS. I also do some Backend on NodeJS.
+
 🤗 I'm always learning new technologies (especially Web3-related) 
+
 🤫 I've created a lots of websites (~30+)
 - [Aiternate](https://www.aiternate.com/)
 - [Aiternate App](https://app.aiternate.com/)
