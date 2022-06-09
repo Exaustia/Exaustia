@@ -1,6 +1,18 @@
 ### Hi there 👋
 
-![Les Stats GitHub de Exaustia](https://github-readme-stats.vercel.app/api?username=exaustia&show_icons=true&theme=radical&count_private=true)
+🔭 I'm working for Aiternate Studios since september 2021. 
+🌱 I'm focused on the front-end, with ReactJS. I also do some Backend on NodeJS.
+🤗 I'm always learning new technologies (especially Web3-related) 
+🤫 I've created a lots of websites (~30+)
+- [Aiternate](https://www.aiternate.com/)
+- [Aiternate App](https://app.aiternate.com/)
+- [Neotoys](https://neotoys.net/)
+👯 I love learn new things, so, if you have something to show me, don't hesitate!
+💻 AWS Dev0ps when I have some time or when I need to host websites, create new API with Lambda/ECS and add some CI / CD 🖋️
+
+
+
+![Exaustia Stats](https://github-readme-stats.vercel.app/api?username=exaustia&show_icons=true&theme=radical&count_private=true)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exaustia&layout=compact)](https://github.com/exaustia/github-readme-stats)
