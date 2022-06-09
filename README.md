@@ -24,7 +24,7 @@
 
 ![Exaustia Stats](https://github-readme-stats-nine-tan-70.vercel.app/api?username=exaustia&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-![Exaustia old github Stats](https://github-readme-stats-pro-woad.vercel.app/api?username=exaustia&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Exaustia old github Stats](https://github-readme-stats-pro-woad.vercel.app/api?username=ferrer-benoit&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats-nine-tan-70.vercel.app/api/top-langs/?username=exaustia&layout=compact&count_private=true)](https://github.com/exaustia/github-readme-stats)
 
