@@ -9,6 +9,7 @@
 - [Neotoys](https://neotoys.net/)
 
 👯 I love learn new things, so, if you have something to show me, don't hesitate!
+
 💻 AWS Dev0ps when I have some time or when I need to host websites, create new API with Lambda/ECS and add some CI / CD 🖋️
 
 
