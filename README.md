@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![Les Stats GitHub de Exaustia](https://github-readme-stats.vercel.app/api?username=exaustia&show_icons=true&theme=radical&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exaustia&layout=compact)](https://github.com/exaustia/github-readme-stats)
 
 <!--
 **Exaustia/Exaustia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
