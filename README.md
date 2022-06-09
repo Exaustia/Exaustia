@@ -18,8 +18,6 @@
 
 My Personal account
 ![Exaustia Stats](https://github-readme-stats.vercel.app/api?username=exaustia&show_icons=true&theme=radical&count_private=true)
-My Pro account 
-![Exaustia Stats](https://github-readme-stats.vercel.app/api?username=Benoit-Ferrer&show_icons=true&theme=radical&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exaustia&layout=compact&count_private=true)](https://github.com/exaustia/github-readme-stats)
 
