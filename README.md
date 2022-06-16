@@ -1,6 +1,7 @@
 ### Hi! ![Hi](https://cdn.discordapp.com/emojis/958073331536506951.png "Hi")
 
 🔭 I'm working for Aiternate Studios since september 2021. 
+
 🔭 I'm working to for Zayzan Raptor.
 
 🌱 I'm focused on the front-end, with ReactJS. I also do some Backend on NodeJS.
