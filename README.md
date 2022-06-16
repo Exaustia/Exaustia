@@ -6,7 +6,7 @@
 
 🤗 I'm always learning new technologies (especially Web3-related) 
 
-🤫 I've created a lots of websites (~30+)
+🤫 I've created a lots of websites (some examples bellow)
 - [Aiternate](https://www.aiternate.com/)
 - [Aiternate App](https://app.aiternate.com/)
 - [Neotoys](https://neotoys.net/)
