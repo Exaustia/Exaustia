@@ -2,16 +2,9 @@
 
 🔭 I'm working for Aiternate Studios since september 2021. 
 
-🔭 I'm working to for Zayzan Raptor.
-
 🌱 I'm focused on the front-end, with ReactJS. I also do some Backend on NodeJS.
 
 🤗 I'm always learning new technologies (especially Web3-related) 
-
-🤫 I've created a lots of websites (some examples bellow)
-- [Aiternate](https://www.aiternate.com/)
-- [Aiternate App](https://app.aiternate.com/)
-- [Neotoys](https://neotoys.net/)
 
 👯 I love learn new things, so, if you have something to show me, don't hesitate!
 
