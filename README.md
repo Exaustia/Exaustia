@@ -17,8 +17,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 
 
-![Exaustia Stats](https://github-readme-stats-nine-tan-70.vercel.app/api?username=exaustia&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
 [![Top Langs](https://github-readme-stats-nine-tan-70.vercel.app/api/top-langs/?username=exaustia&layout=compact&count_private=true)](https://github.com/exaustia/github-readme-stats)
 
 <!--
