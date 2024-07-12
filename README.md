@@ -1,14 +1,12 @@
 ### Hi! ![Hi](https://cdn.discordapp.com/emojis/958073331536506951.png "Hi")
 
-🔭 I'm working for Aiternate Studios since september 2021. 
+🌱 I'm focused on React / NextJS. I also do some Backend on NodeJS.
 
-🌱 I'm focused on the front-end, with ReactJS. I also do some Backend on NodeJS.
-
-🤗 I'm always learning new technologies (especially Web3-related) 
+🤗 I'm always learning new technologies
 
 👯 I love learn new things, so, if you have something to show me, don't hesitate!
 
-💻 AWS Dev0ps when I have some time or when I need to host websites, create new API with Lambda/ECS and add some CI / CD 🖋️
+💻 AWS Dev0ps when I have some time or when I need to host websites, create new API and add some CI / CD 🖋️
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
