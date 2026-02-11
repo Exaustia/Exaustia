@@ -1,6 +1,6 @@
 ### Hi! ![Hi](https://cdn.discordapp.com/emojis/958073331536506951.png "Hi")
 
-🌱 I'm focused on React / NextJS. I also do some Backend on NodeJS.
+🌱 I'm fullstack !
 
 🤗 I'm always learning new technologies
 
